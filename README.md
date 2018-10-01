@@ -1,2 +1,7 @@
 # PongJS
-Just a simple Pong Clone written in Javascript for you to study and learn form
+Ever wanted to create a very simple game yourself?
+I've written a simple Pong Clone in Javascript
+You can learn from it and experiment with it.
+I hope you learn from it.
+
+Chris The Coder
